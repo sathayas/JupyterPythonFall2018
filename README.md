@@ -8,3 +8,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2018.
 - [Hello World](https://github.com/sathayas/JupyterPythonFall2018/blob/master/HelloWorld.ipynb) (8/30)
 - [Operators & variables](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Operators.ipynb) (9/4)
 - [Comparisons & if statements](https://github.com/sathayas/JupyterPythonFall2018/blob/master/If.ipynb) (9/6)
+- [While loops](https://github.com/sathayas/JupyterPythonFall2018/blob/master/While.ipynb) (9/8)
