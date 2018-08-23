@@ -9,3 +9,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2018.
 - [Operators & variables](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Operators.ipynb) (9/4)
 - [Comparisons & if statements](https://github.com/sathayas/JupyterPythonFall2018/blob/master/If.ipynb) (9/6)
 - [While loops](https://github.com/sathayas/JupyterPythonFall2018/blob/master/While.ipynb) (9/11)
+- [For loops](https://github.com/sathayas/JupyterPythonFall2018/blob/master/For.ipynb) (9/13 - 9/18)
