@@ -11,3 +11,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2018.
 - [While loops](https://github.com/sathayas/JupyterPythonFall2018/blob/master/While.ipynb) (9/11)
 - [For loops](https://github.com/sathayas/JupyterPythonFall2018/blob/master/For.ipynb) (9/13 - 9/18)
 - [Functions](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Function.ipynb) (9/20 - 9/25)
+- [Lists](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Function.ipynb) (9/27 - 10/2)
