@@ -14,3 +14,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2018.
 - [Lists](https://github.com/sathayas/JupyterPythonFall2018/blob/master/List.ipynb) (9/27 - 10/2)
 - [Dictionaries](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Dictionary.ipynb) (10/4)
 - [String manipulation](https://github.com/sathayas/JupyterPythonFall2018/blob/master/String.ipynb) (10/9)
+- [Reading and writing files](https://github.com/sathayas/JupyterPythonFall2018/blob/master/File.ipynb) (10/11 - 10/18)
