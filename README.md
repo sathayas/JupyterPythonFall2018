@@ -18,3 +18,4 @@ Working repository for Jupyter notebooks for Python Class, Fall 2018.
 - [Git & GitHub](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Git.ipynb) (10/30)
 - [NumPy](https://github.com/sathayas/JupyterPythonFall2018/blob/master/NumPy.ipynb) (11/1 - 11/6)
 - [Data visualization](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Plot.ipynb) (11/8 - 11/13)
+- [Data frames with Pandas](https://github.com/sathayas/JupyterPythonFall2018/blob/master/Pandas.ipynb) (11/15 - 11/27)
